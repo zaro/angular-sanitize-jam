@@ -1,0 +1,31 @@
+{
+    "name": "angular-sanitize",
+    "version": "1.0.4",
+    "description": "JamJS wrapper for AngularJS sanitize lib",
+    "github": "https://github.com/angular/angular.js",
+    "keywords": [
+        "angularjs", "angularjs-sanitize"
+    ],
+    "jam": {
+        "main": "angular-sanitize.js",
+        "dependencies": {
+            "angularjs": ">=1.0.1"
+        },
+        "shim": {
+            "deps": ["angularjs"],
+        }
+    },
+    "maintainers": [{
+        "name": "Svetlozar Argirov",
+        "email": "zarrro@gmail.com",
+        "web": "https://github.com/zaro"
+    }],
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/angular/angular.js/blob/master/LICENSE"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zaro/angular-sanitize-jam"
+    }
+}

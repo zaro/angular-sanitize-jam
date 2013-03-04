@@ -1,4 +1,4 @@
 angular-sanitize-jam
 ====================
 
-JamJS packaging of 
+JamJS packaging of angular-sanitize
